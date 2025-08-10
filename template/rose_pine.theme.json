@@ -27,7 +27,7 @@
     "secondaryAccentColor": "$foam",
     "primaryForeground": "$text",
     "primaryBackground": "$base",
-    "secondaryBackground": "$surface",
+    "secondaryBackground": "$overlay",
     "panelBackground": "$surface",
     "hoverBackground": "$overlay",
     "selectionBackground": "$highlightMed",
