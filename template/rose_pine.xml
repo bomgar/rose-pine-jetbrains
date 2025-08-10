@@ -16,7 +16,7 @@
     <option name="CARET_ROW_COLOR" value="$highlightLow"/>
     <option name="CONSOLE_BACKGROUND_KEY" value="$base"/>
     <option name="DELETED_LINES_COLOR" value="$rose"/>
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="$overlay"/>
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="$subtle"/>
     <option name="DOCUMENTATION_COLOR" value="$overlay"/>
     <option name="DOC_COMMENT_LINK" value="$foam"/>
     <option name="ERROR_HINT" value="$love"/>
@@ -25,17 +25,17 @@
     <option name="FILESTATUS_DELETED" value="$surface"/>
     <option name="FILESTATUS_HIJACKED" value="$gold"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="$surface"/>
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="$overlay"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="$subtle"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="$gold"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="$gold"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="$gold"/>
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="$pine"/>
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="$overlay"/>
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="$subtle"/>
     <option name="FILESTATUS_MERGED" value="$iris"/>
     <option name="FILESTATUS_MODIFIED" value="$foam"/>
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="$foam"/>
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="$foam"/>
-    <option name="FILESTATUS_SUPPRESSED" value="$overlay"/>
+    <option name="FILESTATUS_SUPPRESSED" value="$subtle"/>
     <option name="FILESTATUS_SWITCHED" value="$iris"/>
     <option name="FILESTATUS_UNKNOWN" value="$gold"/>
     <option name="FILESTATUS_addedOutside" value="$pine"/>
