@@ -12,7 +12,7 @@
     <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="#fffaf3" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="#fffaf3" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="#56949f" />
-    <option name="CARET_COLOR" value="#9893a5"/>
+    <option name="CARET_COLOR" value="#d7827e"/>
     <option name="CARET_ROW_COLOR" value="#f4ede8"/>
     <option name="CONSOLE_BACKGROUND_KEY" value="#faf4ed"/>
     <option name="DELETED_LINES_COLOR" value="#d7827e"/>
