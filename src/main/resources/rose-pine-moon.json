@@ -35,6 +35,7 @@
       "pressedBorderColor": "selectionBackground"
     },
     "Banner": {
+      "foreground": "#232136",
       "errorBackground": "#eb6f92",
       "errorBorderColor": "#eb6f92",
       "errorForeground": "primaryForeground",
