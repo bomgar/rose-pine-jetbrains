@@ -12,8 +12,8 @@
     <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="$surface" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="$surface" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="$foam" />
-    <option name="CARET_COLOR" value="$rose"/>
-    <option name="CARET_ROW_COLOR" value="$surface"/>
+    <option name="CARET_COLOR" value="$muted"/>
+    <option name="CARET_ROW_COLOR" value="$highlightLow"/>
     <option name="CONSOLE_BACKGROUND_KEY" value="$base"/>
     <option name="DELETED_LINES_COLOR" value="$rose"/>
     <option name="DIFF_SEPARATORS_BACKGROUND" value="$overlay"/>

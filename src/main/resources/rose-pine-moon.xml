@@ -12,8 +12,8 @@
     <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="#2a273f" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="#2a273f" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="#9ccfd8" />
-    <option name="CARET_COLOR" value="#ea9a97"/>
-    <option name="CARET_ROW_COLOR" value="#2a273f"/>
+    <option name="CARET_COLOR" value="#6e6a86"/>
+    <option name="CARET_ROW_COLOR" value="#2a283e"/>
     <option name="CONSOLE_BACKGROUND_KEY" value="#232136"/>
     <option name="DELETED_LINES_COLOR" value="#ea9a97"/>
     <option name="DIFF_SEPARATORS_BACKGROUND" value="#393552"/>
