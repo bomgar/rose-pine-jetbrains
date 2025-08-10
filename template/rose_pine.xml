@@ -54,8 +54,8 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="$surface"/>
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="$overlay"/>
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="$overlay"/>
-    <option name="LINE_NUMBERS_COLOR" value="$overlay"/>
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="$overlay"/>
+    <option name="LINE_NUMBERS_COLOR" value="$muted"/>
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="$text"/>
     <option name="LOOKUP_COLOR" value="$surface"/>
     <option name="METHOD_SEPARATORS_COLOR" value="$surface"/>
     <option name="MODIFIED_LINES_COLOR" value="$gold"/>
@@ -67,7 +67,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="$surface"/>
     <option name="SELECTED_INDENT_GUIDE" value="$surface"/>
     <option name="SELECTED_TEARLINE_COLOR" value="$surface"/>
-    <option name="SELECTION_BACKGROUND" value="$surface"/>
+    <option name="SELECTION_BACKGROUND" value="$highlightMed"/>
     <option name="SELECTION_FOREGROUND" value=""/>
     <option name="SEPARATOR_BELOW_COLOR" value=""/>
     <option name="ScrollBar.thumbColor" value="$surface"/>
@@ -452,13 +452,13 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="$gold"/>
+        <option name="FOREGROUND" value="$foam"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="$gold"/>
+        <option name="FOREGROUND" value="$foam"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -641,6 +641,7 @@
     </option>
     <option name="CodeWithMe.USER_1_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$love"/>
       </value>
     </option>
@@ -651,6 +652,7 @@
     </option>
     <option name="CodeWithMe.USER_2_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$rose"/>
       </value>
     </option>
@@ -661,6 +663,7 @@
     </option>
     <option name="CodeWithMe.USER_3_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$gold"/>
       </value>
     </option>
@@ -671,6 +674,7 @@
     </option>
     <option name="CodeWithMe.USER_4_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$pine"/>
       </value>
     </option>
@@ -681,6 +685,7 @@
     </option>
     <option name="CodeWithMe.USER_5_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$foam"/>
       </value>
     </option>
@@ -691,6 +696,7 @@
     </option>
     <option name="CodeWithMe.USER_6_SELECTION">
       <value>
+        <option name="FOREGROUND" value="$base"/>
         <option name="BACKGROUND" value="$rose"/>
       </value>
     </option>
@@ -834,7 +840,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="$surface"/>
+        <option name="FOREGROUND" value="$subtle"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -850,13 +856,13 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="$foam"/>
+        <option name="FOREGROUND" value="$rose"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="$foam"/>
+        <option name="FOREGROUND" value="$rose"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -928,7 +934,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="$rose"/>
+        <option name="FOREGROUND" value="$iris"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -1170,7 +1176,7 @@
     </option>
     <option name="GO_COMMENT_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$subtle"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -1303,7 +1309,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="$surface"/>
+        <option name="EFFECT_COLOR" value="$muted"/>
         <option name="ERROR_STRIPE_COLOR" value="$foam"/>
       </value>
     </option>
@@ -1361,7 +1367,7 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$subtle"/>
         <option name="BACKGROUND" value="$base"/>
       </value>
     </option>
@@ -1738,7 +1744,7 @@
     </option>
     <option name="MARKDOWN_BOLD_MARKER">
       <value>
-        <option name="FOREGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$subtle"/>
         <option name="FONT_TYPE" value="1"/>
       </value>
     </option>
@@ -1808,7 +1814,7 @@
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
       <value>
-        <option name="FOREGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$subtle"/>
         <option name="FONT_TYPE" value="1"/>
       </value>
     </option>
@@ -1918,7 +1924,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$muted"/>
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2713,7 +2719,7 @@
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="BACKGROUND" value="$surface"/>
+        <option name="BACKGROUND" value="$highlightLow"/>
       </value>
     </option>
     <option name="TEXT">
