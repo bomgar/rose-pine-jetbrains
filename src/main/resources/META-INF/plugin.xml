@@ -6,10 +6,9 @@
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.bomgar.rosepinejetbrains.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.bomgar.rosepinejetbrains.startup.MyProjectActivity" />
+        <themeProvider id="8c92a344-c5fe-48e9-b654-0794cf14a36f" path="/rose-pine.json"/>
+        <themeProvider id="ae0e6cf0-1843-41df-888d-6114e94b3a6c" path="/rose-pine-moon.json"/>
+        <themeProvider id="dca196eb-7b53-4200-8d62-7cca1d79be2f" path="/rose-pine-dawn.json"/>
     </extensions>
 </idea-plugin>
