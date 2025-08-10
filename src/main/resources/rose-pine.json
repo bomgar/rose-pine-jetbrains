@@ -75,7 +75,7 @@
         "endBorderColor": "#31748f",
         "focusColor": "#31748f",
         "focusedBorderColor": "#31748f",
-        "foreground": "#191724",
+        "foreground": "#e0def4",
         "startBackground": "#31748f",
         "startBorderColor": "#31748f"
       },
@@ -498,8 +498,8 @@
       "Checkbox.Border.Selected": "#908caa",
       "Checkbox.Foreground.Disabled": "#403d52",
       "Checkbox.Foreground.Disabled.Dark": "#403d52",
-      "Checkbox.Foreground.Selected": "#31748f",
-      "Checkbox.Foreground.Selected.Dark": "#31748f",
+      "Checkbox.Foreground.Selected": "#f6c177",
+      "Checkbox.Foreground.Selected.Dark": "#f6c177",
       "Tree.iconColor": "#e0def4"
     }
   }

@@ -75,7 +75,7 @@
         "endBorderColor": "$pine",
         "focusColor": "$pine",
         "focusedBorderColor": "$pine",
-        "foreground": "$base",
+        "foreground": "$($text|$text|$base)",
         "startBackground": "$pine",
         "startBorderColor": "$pine"
       },
@@ -498,8 +498,8 @@
       "Checkbox.Border.Selected": "$subtle",
       "Checkbox.Foreground.Disabled": "$highlightMed",
       "Checkbox.Foreground.Disabled.Dark": "$highlightMed",
-      "Checkbox.Foreground.Selected": "$pine",
-      "Checkbox.Foreground.Selected.Dark": "$pine",
+      "Checkbox.Foreground.Selected": "$($gold|$gold|$pine)",
+      "Checkbox.Foreground.Selected.Dark": "$($gold|$gold|$pine)",
       "Tree.iconColor": "$text"
     }
   }
