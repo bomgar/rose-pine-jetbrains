@@ -994,31 +994,30 @@
         <option name="EFFECT_TYPE" value="3"/>
       </value>
     </option>
-    <!-- default looks good -->
-    <!-- <option name="DIFF_CONFLICT"> -->
-    <!--   <value> -->
-    <!--     <option name="BACKGROUND" value="$love"/> -->
-    <!--     <option name="ERROR_STRIPE_COLOR" value="$love"/> -->
-    <!--   </value> -->
-    <!-- </option> -->
-    <!-- <option name="DIFF_DELETED"> -->
-    <!--   <value> -->
-    <!--     <option name="BACKGROUND" value="$love"/> -->
-    <!--     <option name="ERROR_STRIPE_COLOR" value="$love"/> -->
-    <!--   </value> -->
-    <!-- </option> -->
-    <!-- <option name="DIFF_INSERTED"> -->
-    <!--   <value> -->
-    <!--     <option name="BACKGROUND" value="$pine"/> -->
-    <!--     <option name="ERROR_STRIPE_COLOR" value="$pine"/> -->
-    <!--   </value> -->
-    <!-- </option> -->
-    <!-- <option name="DIFF_MODIFIED"> -->
-    <!--   <value> -->
-    <!--     <option name="BACKGROUND" value="$foam"/> -->
-    <!--     <option name="ERROR_STRIPE_COLOR" value="$foam"/> -->
-    <!--   </value> -->
-    <!-- </option> -->
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="$(#573650|#664462|#e3c8c7)"/>
+        <option name="ERROR_STRIPE_COLOR" value="$(#4d324c|#5d415f|#e6cecc)"/>
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="$(#573650|#664462|#e3c8c7)"/>
+        <option name="ERROR_STRIPE_COLOR" value="$(#4d324c|#5d415f|#e6cecc)"/>
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="$(#29374f|#3a4c6a|#c0c9ca)"/>
+        <option name="ERROR_STRIPE_COLOR" value="$(#28334b|#3a4765|#cacfce)"/>
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="$(#444e62|#525c74|#cbd4d1)"/>
+        <option name="ERROR_STRIPE_COLOR" value="#3e455a|#4d546d|#d3d8d4"/>
+      </value>
+    </option>
     <option name="DJANGO_STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="$pine"/>
