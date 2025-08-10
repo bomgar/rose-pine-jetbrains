@@ -994,30 +994,31 @@
         <option name="EFFECT_TYPE" value="3"/>
       </value>
     </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="$love"/>
-        <option name="ERROR_STRIPE_COLOR" value="$love"/>
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="$love"/>
-        <option name="ERROR_STRIPE_COLOR" value="$love"/>
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="$pine"/>
-        <option name="ERROR_STRIPE_COLOR" value="$pine"/>
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="$foam"/>
-        <option name="ERROR_STRIPE_COLOR" value="$foam"/>
-      </value>
-    </option>
+    <!-- default looks good -->
+    <!-- <option name="DIFF_CONFLICT"> -->
+    <!--   <value> -->
+    <!--     <option name="BACKGROUND" value="$love"/> -->
+    <!--     <option name="ERROR_STRIPE_COLOR" value="$love"/> -->
+    <!--   </value> -->
+    <!-- </option> -->
+    <!-- <option name="DIFF_DELETED"> -->
+    <!--   <value> -->
+    <!--     <option name="BACKGROUND" value="$love"/> -->
+    <!--     <option name="ERROR_STRIPE_COLOR" value="$love"/> -->
+    <!--   </value> -->
+    <!-- </option> -->
+    <!-- <option name="DIFF_INSERTED"> -->
+    <!--   <value> -->
+    <!--     <option name="BACKGROUND" value="$pine"/> -->
+    <!--     <option name="ERROR_STRIPE_COLOR" value="$pine"/> -->
+    <!--   </value> -->
+    <!-- </option> -->
+    <!-- <option name="DIFF_MODIFIED"> -->
+    <!--   <value> -->
+    <!--     <option name="BACKGROUND" value="$foam"/> -->
+    <!--     <option name="ERROR_STRIPE_COLOR" value="$foam"/> -->
+    <!--   </value> -->
+    <!-- </option> -->
     <option name="DJANGO_STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="$pine"/>
