@@ -96,7 +96,7 @@
         "endBorderColor": "accentColor",
         "focusColor": "accentColor",
         "focusedBorderColor": "accentColor",
-        "foreground": "crust",
+        "foreground": "base",
         "startBackground": "accentColor",
         "startBorderColor": "accentColor"
       },
