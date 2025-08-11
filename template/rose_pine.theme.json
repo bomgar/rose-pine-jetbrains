@@ -8,7 +8,7 @@
     "primaryBackground": "$base",
     "secondaryBackground": "$overlay",
     "panelBackground": "$surface",
-    "hoverBackground": "$overlay",
+    "hoverBackground": "$highlightMed",
     "selectionBackground": "$highlightMed",
     "selectionInactiveBackground": "$highlightLow",
     "borderColor": "$highlightHigh",
