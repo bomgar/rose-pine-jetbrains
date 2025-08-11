@@ -143,7 +143,7 @@
     },
     "EditorTabs": {
       "background": "primaryBackground",
-      "hoverBackground": "primaryBackground",
+      "hoverBackground": "$highlightMed",
       "inactiveHoverBackground": "$love",
       "inactiveUnderlineColor": "$iris",
       "underTabsBorderColor": "separatorColor",

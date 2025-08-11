@@ -143,7 +143,7 @@
     },
     "EditorTabs": {
       "background": "primaryBackground",
-      "hoverBackground": "primaryBackground",
+      "hoverBackground": "#403d52",
       "inactiveHoverBackground": "#eb6f92",
       "inactiveUnderlineColor": "#c4a7e7",
       "underTabsBorderColor": "separatorColor",
