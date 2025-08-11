@@ -2990,5 +2990,10 @@
         <option name="FOREGROUND" value="$rose"/>
       </value>
     </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="$gold" />
+      </value>
+    </option>
   </attributes>
 </scheme>
