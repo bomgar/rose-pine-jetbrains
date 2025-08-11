@@ -2,6 +2,12 @@
 
 # rose-pine-jetbrains Changelog
 
+## [0.0.3]
+Fix colors
+
+## [0.0.2]
+Fix colors
+
 ## [0.0.1]
 Initial release
 
