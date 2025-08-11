@@ -2828,6 +2828,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="#b4637a"/>
         <option name="EFFECT_COLOR" value="#b4637a"/>
         <option name="ERROR_STRIPE_COLOR" value="#b4637a"/>
         <option name="EFFECT_TYPE" value="2"/>

@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="1">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="3">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$text"/>
@@ -2828,6 +2828,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="$love"/>
         <option name="EFFECT_COLOR" value="$love"/>
         <option name="ERROR_STRIPE_COLOR" value="$love"/>
         <option name="EFFECT_TYPE" value="2"/>
