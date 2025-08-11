@@ -1,4 +1,4 @@
-<scheme name="rose-pine" parent_scheme="Darcula" version="1">
+<scheme name="rose-pine" parent_scheme="Darcula" version="3">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#31748f"/>
     <option name="ANNOTATIONS_COLOR" value="#e0def4"/>
