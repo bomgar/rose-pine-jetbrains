@@ -21,7 +21,7 @@
 
 - Using the IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "rose-pine-jetbrains"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "rose pine"</kbd> >
   <kbd>Install</kbd>
   
 - Using JetBrains Marketplace:
