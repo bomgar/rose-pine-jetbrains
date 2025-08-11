@@ -104,7 +104,7 @@
     },
     "CompletionPopup": {
       "matchForeground": "#286983",
-      "selectionBackground": "#f2e9e1",
+      "selectionBackground": "#dfdad9",
       "selectionInactiveBackground": "#797593"
     },
     "Component": {
