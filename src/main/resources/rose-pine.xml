@@ -1373,7 +1373,7 @@
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#908caa"/>
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">

@@ -1373,7 +1373,7 @@
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="$surface"/>
+        <option name="FOREGROUND" value="$subtle"/>
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
