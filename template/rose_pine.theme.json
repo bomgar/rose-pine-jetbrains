@@ -375,7 +375,7 @@
     },
     "TextField": {
       "background": "secondaryBackground",
-      "selectionBackground": "$subtle"
+      "selectionBackground": "selectionBackground"
     },
     "ToggleButton": {
       "buttonColor": "primaryForeground",
