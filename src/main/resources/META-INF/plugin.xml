@@ -4,7 +4,8 @@
     <name>Rose Pine Theme</name>
     <vendor>bomgar</vendor>
     <description><![CDATA[
-      All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+      All natural pine, faux fur and a bit of soho vibes for the classy minimalist<br/><br/>
+      Includes all three Rosé Pine variants (rose-pine, rose-pine-dawn, rose-pine-moon).
 ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
