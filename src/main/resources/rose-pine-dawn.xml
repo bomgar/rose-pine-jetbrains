@@ -447,7 +447,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#575279"/>
+        <option name="FOREGROUND" value="#faf4ed"/>
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">

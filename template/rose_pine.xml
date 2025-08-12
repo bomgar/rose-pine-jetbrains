@@ -354,7 +354,7 @@
     <!-- ANSI Color 00 -->
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="$text"/>
+        <option name="FOREGROUND" value="$($base|$base|$text)"/>
       </value>
     </option>
     <!-- ANSI Color 01 -->
@@ -447,7 +447,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="$text"/>
+        <option name="FOREGROUND" value="$($text|text|$base)"/>
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">

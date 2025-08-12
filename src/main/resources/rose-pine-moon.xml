@@ -354,7 +354,7 @@
     <!-- ANSI Color 00 -->
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="FOREGROUND" value="#232136"/>
       </value>
     </option>
     <!-- ANSI Color 01 -->
@@ -447,7 +447,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="FOREGROUND" value="text"/>
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">

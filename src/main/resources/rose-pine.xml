@@ -354,7 +354,7 @@
     <!-- ANSI Color 00 -->
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="FOREGROUND" value="#191724"/>
       </value>
     </option>
     <!-- ANSI Color 01 -->
