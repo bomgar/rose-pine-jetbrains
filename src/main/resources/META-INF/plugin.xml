@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.bomgar.rosepinejetbrains</id>
-    <name>Rosé Pine Theme</name>
+    <name>Rosé Pine UI</name>
     <vendor>bomgar</vendor>
     <description><![CDATA[
       All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
