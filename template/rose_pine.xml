@@ -2508,11 +2508,6 @@
       </value>
     </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
-    <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="$foam"/>
-      </value>
-    </option>
     <option name="SLIM_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="$text"/>
@@ -2730,9 +2725,20 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="$text"/>
-        <option name="BACKGROUND" value="$foam"/>
-        <option name="ERROR_STRIPE_COLOR" value="$foam"/>
+        <option name="BACKGROUND" value="$overlay"/>
+        <option name="ERROR_STRIPE_COLOR" value="$love"/>
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="$overlay"/>
+        <option name="ERROR_STRIPE_COLOR" value="$love"/>
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="$overlay"/>
+        <option name="ERROR_STRIPE_COLOR" value="$love"/>
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -2819,11 +2825,6 @@
       <value>
         <option name="EFFECT_COLOR" value="$surface"/>
         <option name="ERROR_STRIPE_COLOR" value="$foam"/>
-      </value>
-    </option>
-    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="$base"/>
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
