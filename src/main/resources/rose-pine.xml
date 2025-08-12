@@ -354,7 +354,7 @@
     <!-- ANSI Color 00 -->
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#e0def4"/>
       </value>
     </option>
     <!-- ANSI Color 01 -->
@@ -396,13 +396,13 @@
     <!-- ANSI Color 07 -->
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#908caa"/>
       </value>
     </option>
     <!-- ANSI Color 08 -->
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#6e6a86"/>
       </value>
     </option>
     <!-- ANSI Color 09 -->
@@ -1674,7 +1674,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#6e6a86"/>
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
