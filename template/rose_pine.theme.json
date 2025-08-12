@@ -35,16 +35,13 @@
       "pressedBorderColor": "selectionBackground"
     },
     "Banner": {
-      "foreground": "$base",
+      "foreground": "$text",
       "errorBackground": "$love",
       "errorBorderColor": "$love",
-      "errorForeground": "primaryForeground",
       "informativeBackground": "$foam",
       "informativeBorderColor": "$foam",
-      "informativeForeground": "primaryForeground",
-      "warningBackground": "$rose",
-      "warningBorderColor": "$rose",
-      "warningForeground": "primaryForeground"
+      "warningBackground": "$($love|$love|$gold)",
+      "warningBorderColor": "$($love|$love|$gold)"
     },
     "Bookmark": {
       "Mnemonic": {

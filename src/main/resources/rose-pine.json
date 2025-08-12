@@ -35,16 +35,13 @@
       "pressedBorderColor": "selectionBackground"
     },
     "Banner": {
-      "foreground": "#191724",
+      "foreground": "#e0def4",
       "errorBackground": "#eb6f92",
       "errorBorderColor": "#eb6f92",
-      "errorForeground": "primaryForeground",
       "informativeBackground": "#9ccfd8",
       "informativeBorderColor": "#9ccfd8",
-      "informativeForeground": "primaryForeground",
-      "warningBackground": "#ebbcba",
-      "warningBorderColor": "#ebbcba",
-      "warningForeground": "primaryForeground"
+      "warningBackground": "#eb6f92",
+      "warningBorderColor": "#eb6f92"
     },
     "Bookmark": {
       "Mnemonic": {
