@@ -1,7 +1,7 @@
-<scheme name="rose-pine-moon" parent_scheme="Darcula" version="3">
+<scheme name="rose-pine-moon" parent_scheme="Darcula" version="4">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#3e8fb0"/>
-    <option name="ANNOTATIONS_COLOR" value="#e0def4"/>
+    <option name="ANNOTATIONS_COLOR" value="#232136"/>
     <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="#393552" />
     <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="#393552" />
     <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="#232136" />

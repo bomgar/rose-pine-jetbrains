@@ -1,7 +1,7 @@
-<scheme name="rose-pine-dawn" parent_scheme="Default" version="3">
+<scheme name="rose-pine-dawn" parent_scheme="Default" version="4">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#286983"/>
-    <option name="ANNOTATIONS_COLOR" value="#575279"/>
+    <option name="ANNOTATIONS_COLOR" value="#faf4ed"/>
     <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="#f2e9e1" />
     <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="#f2e9e1" />
     <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="#faf4ed" />
