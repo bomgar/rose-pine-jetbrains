@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="3">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="4">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$text"/>
