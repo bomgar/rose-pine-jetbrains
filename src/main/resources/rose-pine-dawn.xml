@@ -49,7 +49,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="#56949f"/>
     <option name="HTML_TAG_TREE_LEVEL4" value="#56949f"/>
     <option name="HTML_TAG_TREE_LEVEL5" value="#907aa9"/>
-    <option name="INDENT_GUIDE" value="#fffaf3"/>
+    <option name="INDENT_GUIDE" value="#dfdad9"/>
     <option name="INFORMATION_HINT" value="#fffaf3"/>
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="#fffaf3"/>
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="#f2e9e1"/>
@@ -64,7 +64,7 @@
     <option name="PROMOTION_PANE" value="#fffaf3"/>
     <option name="QUESTION_HINT" value="#fffaf3"/>
     <option name="RECENT_LOCATIONS_SELECTION" value="#fffaf3"/>
-    <option name="RIGHT_MARGIN_COLOR" value="#fffaf3"/>
+    <option name="RIGHT_MARGIN_COLOR" value="#dfdad9"/>
     <option name="SELECTED_INDENT_GUIDE" value="#fffaf3"/>
     <option name="SELECTED_TEARLINE_COLOR" value="#fffaf3"/>
     <option name="SELECTION_BACKGROUND" value="#dfdad9"/>

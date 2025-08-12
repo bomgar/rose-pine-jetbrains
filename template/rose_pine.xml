@@ -49,7 +49,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="$foam"/>
     <option name="HTML_TAG_TREE_LEVEL4" value="$foam"/>
     <option name="HTML_TAG_TREE_LEVEL5" value="$iris"/>
-    <option name="INDENT_GUIDE" value="$surface"/>
+    <option name="INDENT_GUIDE" value="$highlightMed"/>
     <option name="INFORMATION_HINT" value="$surface"/>
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="$surface"/>
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="$overlay"/>
@@ -64,7 +64,7 @@
     <option name="PROMOTION_PANE" value="$surface"/>
     <option name="QUESTION_HINT" value="$surface"/>
     <option name="RECENT_LOCATIONS_SELECTION" value="$surface"/>
-    <option name="RIGHT_MARGIN_COLOR" value="$surface"/>
+    <option name="RIGHT_MARGIN_COLOR" value="$highlightMed"/>
     <option name="SELECTED_INDENT_GUIDE" value="$surface"/>
     <option name="SELECTED_TEARLINE_COLOR" value="$surface"/>
     <option name="SELECTION_BACKGROUND" value="$highlightMed"/>
