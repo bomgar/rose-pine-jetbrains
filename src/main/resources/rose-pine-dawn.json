@@ -329,8 +329,8 @@
       }
     },
     "SearchMatch": {
-      "endBackground": "#907aa9",
-      "startBackground": "#907aa9"
+      "endBackground": "#ea9d34",
+      "startBackground": "#ea9d34"
     },
     "SegmentedButton": {
       "focusedSelectedButtonColor": "secondaryBackground",

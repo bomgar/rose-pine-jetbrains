@@ -329,8 +329,8 @@
       }
     },
     "SearchMatch": {
-      "endBackground": "$iris",
-      "startBackground": "$iris"
+      "endBackground": "$($iris|$iris|$gold)",
+      "startBackground": "$($iris|$iris|$gold)"
     },
     "SegmentedButton": {
       "focusedSelectedButtonColor": "secondaryBackground",
