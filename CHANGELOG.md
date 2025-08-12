@@ -2,6 +2,9 @@
 
 # rose-pine-jetbrains Changelog
 
+## [0.0.5]
+Lots of color fixes
+
 ## [0.0.3]
 Fix colors
 
