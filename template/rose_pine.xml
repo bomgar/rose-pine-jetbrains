@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="5">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="6">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$base"/>
@@ -2911,46 +2911,83 @@
         <option name="FOREGROUND" value="$rose"/>
       </value>
     </option>
+    <option name="org.rust.ASSOC_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="$pine" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="$pine" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="$pine" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="$subtle"/>
+        <option name="FOREGROUND" value="$muted" />
       </value>
     </option>
+    <option name="org.rust.CHAR">
+      <value>
+        <option name="FOREGROUND" value="$gold" />
+      </value>
+    </option>
+    <option name="org.rust.CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="$rose" />
+      </value>
+    </option>
+    <option name="org.rust.CRATE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.DOC_LINK">
       <value>
-        <option name="FOREGROUND" value="$foam"/>
+        <option name="FOREGROUND" value="$pine" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+    <option name="org.rust.ENUM" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="$gold" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
-        <option name="FOREGROUND" value="$foam"/>
-        <option name="FONT_TYPE" value="2"/>
+        <option name="FOREGROUND" value="$pine" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="$foam"/>
+        <option name="FOREGROUND" value="$gold" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER"/>
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.MUT_SELF_PARAMETER" baseAttributes="org.rust.MUT_PARAMETER" />
     <option name="org.rust.Q_OPERATOR">
-      <value/>
+      <value />
     </option>
-    <option name="org.rust.TYPE_ALIAS">
-      <value>
-        <option name="FOREGROUND" value="$gold"/>
-        <option name="FONT_TYPE" value="2"/>
-      </value>
-    </option>
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER"/>
+    <option name="org.rust.SELF_EXPRESSION" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="org.rust.SELF_PARAMETER" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="org.rust.STATIC" baseAttributes="org.rust.VARIABLE" />
+    <option name="org.rust.STRUCT" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.TRAIT" baseAttributes="DEFAULT_INTERFACE_NAME" />
+    <option name="org.rust.TYPE_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.UNION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="org.rust.UNSAFE_CODE">
-      <value/>
+      <value />
     </option>
     <option name="org.rust.VARIABLE">
       <value>
-        <option name="FOREGROUND" value="$text"/>
+        <option name="FOREGROUND" value="$text" />
       </value>
     </option>
     <option name="org.toml.KEY">

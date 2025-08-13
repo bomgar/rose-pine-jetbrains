@@ -1,4 +1,4 @@
-<scheme name="rose-pine" parent_scheme="Darcula" version="5">
+<scheme name="rose-pine" parent_scheme="Darcula" version="6">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#31748f"/>
     <option name="ANNOTATIONS_COLOR" value="#191724"/>
@@ -2911,46 +2911,83 @@
         <option name="FOREGROUND" value="#ebbcba"/>
       </value>
     </option>
+    <option name="org.rust.ASSOC_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="#31748f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="#31748f" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="#31748f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="#908caa"/>
+        <option name="FOREGROUND" value="#6e6a86" />
       </value>
     </option>
+    <option name="org.rust.CHAR">
+      <value>
+        <option name="FOREGROUND" value="#f6c177" />
+      </value>
+    </option>
+    <option name="org.rust.CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="#ebbcba" />
+      </value>
+    </option>
+    <option name="org.rust.CRATE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.DOC_LINK">
       <value>
-        <option name="FOREGROUND" value="#9ccfd8"/>
+        <option name="FOREGROUND" value="#31748f" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+    <option name="org.rust.ENUM" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="#f6c177" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
-        <option name="FOREGROUND" value="#9ccfd8"/>
-        <option name="FONT_TYPE" value="2"/>
+        <option name="FOREGROUND" value="#31748f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="#9ccfd8"/>
+        <option name="FOREGROUND" value="#f6c177" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER"/>
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.MUT_SELF_PARAMETER" baseAttributes="org.rust.MUT_PARAMETER" />
     <option name="org.rust.Q_OPERATOR">
-      <value/>
+      <value />
     </option>
-    <option name="org.rust.TYPE_ALIAS">
-      <value>
-        <option name="FOREGROUND" value="#f6c177"/>
-        <option name="FONT_TYPE" value="2"/>
-      </value>
-    </option>
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER"/>
+    <option name="org.rust.SELF_EXPRESSION" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="org.rust.SELF_PARAMETER" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="org.rust.STATIC" baseAttributes="org.rust.VARIABLE" />
+    <option name="org.rust.STRUCT" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.TRAIT" baseAttributes="DEFAULT_INTERFACE_NAME" />
+    <option name="org.rust.TYPE_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.UNION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="org.rust.UNSAFE_CODE">
-      <value/>
+      <value />
     </option>
     <option name="org.rust.VARIABLE">
       <value>
-        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="FOREGROUND" value="#e0def4" />
       </value>
     </option>
     <option name="org.toml.KEY">
