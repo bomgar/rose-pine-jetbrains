@@ -154,6 +154,11 @@
         <option name="FOREGROUND" value="#9ccfd8"/>
       </value>
     </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="#f6c177"/>
+      </value>
+    </option>
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD"/>
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD"/>
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT"/>
@@ -1854,7 +1859,7 @@
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="#1f1d2e"/>
+        <option name="FOREGROUND" value="#524f67"/>
       </value>
     </option>
     <option name="MARKDOWN_UNORDERED_LIST">
