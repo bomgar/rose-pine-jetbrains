@@ -1,4 +1,4 @@
-<scheme name="rose-pine" parent_scheme="Darcula" version="4">
+<scheme name="rose-pine" parent_scheme="Darcula" version="5">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#31748f"/>
     <option name="ANNOTATIONS_COLOR" value="#191724"/>
@@ -1305,12 +1305,6 @@
         <option name="FONT_TYPE" value="2"/>
         <option name="EFFECT_COLOR" value="#9ccfd8"/>
         <option name="EFFECT_TYPE" value="1"/>
-      </value>
-    </option>
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="#6e6a86"/>
-        <option name="ERROR_STRIPE_COLOR" value="#9ccfd8"/>
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2823,8 +2817,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="#1f1d2e"/>
-        <option name="ERROR_STRIPE_COLOR" value="#9ccfd8"/>
+        <option name="BACKGROUND" value="#403d52"/>
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="#403d52"/>
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

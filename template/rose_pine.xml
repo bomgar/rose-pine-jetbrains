@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="4">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="5">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$base"/>
@@ -1305,12 +1305,6 @@
         <option name="FONT_TYPE" value="2"/>
         <option name="EFFECT_COLOR" value="$foam"/>
         <option name="EFFECT_TYPE" value="1"/>
-      </value>
-    </option>
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="$muted"/>
-        <option name="ERROR_STRIPE_COLOR" value="$foam"/>
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2823,8 +2817,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="$surface"/>
-        <option name="ERROR_STRIPE_COLOR" value="$foam"/>
+        <option name="BACKGROUND" value="$highlightMed"/>
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="$highlightMed"/>
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
