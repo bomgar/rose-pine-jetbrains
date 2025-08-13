@@ -2882,12 +2882,12 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="$pine"/>
+        <option name="FOREGROUND" value="$gold"/>
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
       <value>
-        <option name="FOREGROUND" value="$pine"/>
+        <option name="FOREGROUND" value="$gold"/>
       </value>
     </option>
     <option name="com.plan9.IDENTIFIER">
