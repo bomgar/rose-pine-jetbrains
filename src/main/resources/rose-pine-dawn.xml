@@ -3056,5 +3056,6 @@
         <option name="FOREGROUND" value="#907aa9" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
   </attributes>
 </scheme>
