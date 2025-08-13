@@ -3045,5 +3045,16 @@
         <option name="FOREGROUND" value="$gold" />
       </value>
     </option>
+    <option name="ENTRY_KEY">
+      <value>
+        <option name="FOREGROUND" value="$pine" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HOCON_SUBSTITUTION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="$iris" />
+      </value>
+    </option>
   </attributes>
 </scheme>
