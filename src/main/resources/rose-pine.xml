@@ -1172,7 +1172,6 @@
     </option>
     <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT"/>
     <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
-    <option name="GO_BUILTIN_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE"/>
     <option name="GO_BUILTIN_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
     <option name="GO_BUILTIN_TYPE">
       <value>
@@ -1195,7 +1194,7 @@
     </option>
     <option name="GO_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="#f6c177"/>
+        <option name="FOREGROUND" value="#31748f"/>
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_CONSTANT">
@@ -1205,7 +1204,6 @@
     </option>
     <option name="GO_SHADOWING_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="#6e6a86"/>
         <option name="EFFECT_COLOR" value="#6e6a86"/>
         <option name="EFFECT_TYPE" value="1"/>
       </value>
@@ -1216,6 +1214,11 @@
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="#9ccfd8"/>
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="#31748f" />
       </value>
     </option>
     <option name="HAML_CLASS">
