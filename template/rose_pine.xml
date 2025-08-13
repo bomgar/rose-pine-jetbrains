@@ -1208,6 +1208,11 @@
         <option name="EFFECT_TYPE" value="1"/>
       </value>
     </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="$iris" />
+      </value>
+    </option>
     <option name="GO_TEMPLATE_BACKGROUND">
       <value/>
     </option>
