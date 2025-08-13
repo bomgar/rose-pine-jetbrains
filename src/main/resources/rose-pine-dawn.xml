@@ -154,6 +154,7 @@
         <option name="FOREGROUND" value="#56949f"/>
       </value>
     </option>
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC">
       <value>
         <option name="FOREGROUND" value="#ea9d34"/>
