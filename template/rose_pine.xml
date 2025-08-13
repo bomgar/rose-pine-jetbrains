@@ -2363,7 +2363,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="$gold"/>
+        <option name="FOREGROUND" value="$iris"/>
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -2373,7 +2373,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="$pine"/>
+        <option name="FOREGROUND" value="$rose"/>
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER" baseAttributes="BAD_CHARACTER"/>
