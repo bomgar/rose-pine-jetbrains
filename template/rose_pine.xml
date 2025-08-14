@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="6">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="7">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$base"/>
@@ -3047,13 +3047,18 @@
     </option>
     <option name="ENTRY_KEY">
       <value>
-        <option name="FOREGROUND" value="$pine" />
+        <option name="FOREGROUND" value="$foam" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HOCON_SUBSTITUTION_SIGN">
       <value>
         <option name="FOREGROUND" value="$iris" />
+      </value>
+    </option>
+    <option name="HOCON_UNQUOTED_STRING">
+      <value>
+        <option name="FOREGROUND" value="$gold" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />

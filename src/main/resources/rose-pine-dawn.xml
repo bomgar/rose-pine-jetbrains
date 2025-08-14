@@ -1,4 +1,4 @@
-<scheme name="rose-pine-dawn" parent_scheme="Default" version="6">
+<scheme name="rose-pine-dawn" parent_scheme="Default" version="7">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#286983"/>
     <option name="ANNOTATIONS_COLOR" value="#faf4ed"/>
@@ -3047,13 +3047,18 @@
     </option>
     <option name="ENTRY_KEY">
       <value>
-        <option name="FOREGROUND" value="#286983" />
+        <option name="FOREGROUND" value="#56949f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HOCON_SUBSTITUTION_SIGN">
       <value>
         <option name="FOREGROUND" value="#907aa9" />
+      </value>
+    </option>
+    <option name="HOCON_UNQUOTED_STRING">
+      <value>
+        <option name="FOREGROUND" value="#ea9d34" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
