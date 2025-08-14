@@ -757,7 +757,7 @@
     </option>
     <option name="DART_TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="#907aa9"/>
+        <option name="FOREGROUND" value="#56949f"/>
       </value>
     </option>
     <option name="DART_UNRESOLVED_INSTANCE_MEMBER_REFERENCE">
@@ -2769,7 +2769,7 @@
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="#ea9d34"/>
+        <option name="FOREGROUND" value="#56949f"/>
       </value>
     </option>
     <option name="TYPEDEF">
@@ -2779,7 +2779,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="#ea9d34"/>
+        <option name="FOREGROUND" value="#56949f"/>
       </value>
     </option>
     <option name="TYPO">
