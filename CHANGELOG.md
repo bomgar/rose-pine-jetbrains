@@ -2,6 +2,10 @@
 
 # rose-pine-jetbrains Changelog
 
+## [0.0.8]
+- Fix completion contrast
+- Fix hocon colors
+
 ## [0.0.5]
 Lots of color fixes
 
