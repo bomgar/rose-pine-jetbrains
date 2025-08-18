@@ -1,4 +1,4 @@
-<scheme name="rose-pine-moon" parent_scheme="Darcula" version="7">
+<scheme name="rose-pine-moon" parent_scheme="Darcula" version="8">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#3e8fb0"/>
     <option name="ANNOTATIONS_COLOR" value="#232136"/>
@@ -767,13 +767,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="#2a273f"/>
+        <option name="FOREGROUND" value="#6e6a86"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="#2a273f"/>
+        <option name="FOREGROUND" value="#6e6a86"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>

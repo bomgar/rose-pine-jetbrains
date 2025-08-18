@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="7">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="8">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$base"/>
@@ -767,13 +767,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="$surface"/>
+        <option name="FOREGROUND" value="$muted"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="$surface"/>
+        <option name="FOREGROUND" value="$muted"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>

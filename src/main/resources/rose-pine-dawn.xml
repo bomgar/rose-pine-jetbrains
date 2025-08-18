@@ -1,4 +1,4 @@
-<scheme name="rose-pine-dawn" parent_scheme="Default" version="7">
+<scheme name="rose-pine-dawn" parent_scheme="Default" version="8">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#286983"/>
     <option name="ANNOTATIONS_COLOR" value="#faf4ed"/>
@@ -767,13 +767,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="#fffaf3"/>
+        <option name="FOREGROUND" value="#9893a5"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="#fffaf3"/>
+        <option name="FOREGROUND" value="#9893a5"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
