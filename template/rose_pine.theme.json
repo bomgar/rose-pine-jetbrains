@@ -102,7 +102,7 @@
     "CompletionPopup": {
       "matchForeground": "$pine",
       "selectionBackground": "$highlightMed",
-      "selectionInactiveBackground": "$subtle"
+      "selectionInactiveBackground": "$highlightMed"
     },
     "Component": {
       "borderColor": "borderColor",
