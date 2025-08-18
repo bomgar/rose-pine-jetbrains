@@ -1095,7 +1095,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="$gold"/>
+        <option name="BACKGROUND" value="$(#4d324c|#5d415f|#e6cecc)"/>
       </value>
     </option>
     <option name="FIRST SYMBOL IN LIST">
