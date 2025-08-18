@@ -2,6 +2,9 @@
 
 # rose-pine-jetbrains Changelog
 
+## [Unreleased]
+- fix inline colors
+
 ## [0.0.8]
 - Fix completion contrast
 - Fix hocon colors
@@ -18,6 +21,3 @@ Fix colors
 ## [0.0.1]
 Initial release
 
-## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
