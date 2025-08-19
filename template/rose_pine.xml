@@ -70,14 +70,14 @@
     <option name="SELECTION_BACKGROUND" value="$highlightMed"/>
     <option name="SELECTION_FOREGROUND" value=""/>
     <option name="SEPARATOR_BELOW_COLOR" value=""/>
-    <option name="ScrollBar.thumbColor" value="$surface"/>
-    <option name="ScrollBar.thumbBorderColor" value="$surface"/>
-    <option name="ScrollBar.hoverThumbColor" value="$surface"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="$surface"/>
-    <option name="ScrollBar.Mac.thumbColor" value="$surface"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="$surface"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="$surface"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="$surface"/>
+    <option name="ScrollBar.thumbColor" value="$highlightMed"/>
+    <option name="ScrollBar.thumbBorderColor" value="$highlightMed"/>
+    <option name="ScrollBar.hoverThumbColor" value="$highlightHigh"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="$highlightHigh"/>
+    <option name="ScrollBar.Mac.thumbColor" value="$highlightMed"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="$highlightMed"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="$highlightMed"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="$highlightMed"/>
     <option name="TAB_UNDERLINE" value="$iris"/>
     <option name="TAB_UNDERLINE_INACTIVE" value="$text"/>
     <option name="TEARLINE_COLOR" value="$surface"/>

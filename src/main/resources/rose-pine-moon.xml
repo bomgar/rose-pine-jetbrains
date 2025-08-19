@@ -70,14 +70,14 @@
     <option name="SELECTION_BACKGROUND" value="#44415a"/>
     <option name="SELECTION_FOREGROUND" value=""/>
     <option name="SEPARATOR_BELOW_COLOR" value=""/>
-    <option name="ScrollBar.thumbColor" value="#2a273f"/>
-    <option name="ScrollBar.thumbBorderColor" value="#2a273f"/>
-    <option name="ScrollBar.hoverThumbColor" value="#2a273f"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="#2a273f"/>
-    <option name="ScrollBar.Mac.thumbColor" value="#2a273f"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="#2a273f"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="#2a273f"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#2a273f"/>
+    <option name="ScrollBar.thumbColor" value="#44415a"/>
+    <option name="ScrollBar.thumbBorderColor" value="#44415a"/>
+    <option name="ScrollBar.hoverThumbColor" value="#56526e"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="#56526e"/>
+    <option name="ScrollBar.Mac.thumbColor" value="#44415a"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="#44415a"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="#44415a"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#44415a"/>
     <option name="TAB_UNDERLINE" value="#c4a7e7"/>
     <option name="TAB_UNDERLINE_INACTIVE" value="#e0def4"/>
     <option name="TEARLINE_COLOR" value="#2a273f"/>

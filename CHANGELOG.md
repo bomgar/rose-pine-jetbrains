@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 - fix inline colors
+- fix scrollbars in editor preview
 
 ## [0.0.8]
 - Fix completion contrast
