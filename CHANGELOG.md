@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.0.10]
 - fix inline colors
 - fix scrollbars in editor preview
 
