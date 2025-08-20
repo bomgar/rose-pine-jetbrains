@@ -1,4 +1,4 @@
-<scheme name="rose-pine" parent_scheme="Darcula" version="8">
+<scheme name="rose-pine" parent_scheme="Darcula" version="9">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#31748f"/>
     <option name="ANNOTATIONS_COLOR" value="#191724"/>
@@ -2831,12 +2831,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#403d52"/>
+        <option name="BACKGROUND" value="#26233a"/>
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#403d52"/>
+        <option name="BACKGROUND" value="#26233a"/>
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

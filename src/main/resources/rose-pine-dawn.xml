@@ -1,4 +1,4 @@
-<scheme name="rose-pine-dawn" parent_scheme="Default" version="8">
+<scheme name="rose-pine-dawn" parent_scheme="Default" version="9">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#286983"/>
     <option name="ANNOTATIONS_COLOR" value="#faf4ed"/>
@@ -2831,12 +2831,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#dfdad9"/>
+        <option name="BACKGROUND" value="#f2e9e1"/>
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#dfdad9"/>
+        <option name="BACKGROUND" value="#f2e9e1"/>
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

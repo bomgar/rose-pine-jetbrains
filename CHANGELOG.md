@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 - fix template syntax
+- fix under cursor and selection overlap
 
 ## [0.0.10]
 - fix inline colors
