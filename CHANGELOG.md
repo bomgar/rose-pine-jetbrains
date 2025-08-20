@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.0.11]
 - fix template syntax
 - fix under cursor and selection overlap
 
