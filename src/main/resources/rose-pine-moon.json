@@ -151,11 +151,11 @@
       "unselectedBlend": 0.7
     },
     "FileColor": {
-      "Blue": "#3e455a|#4d546d|#d3d8d4",
+      "Blue": "#4d546d",
       "Green": "#3a4765",
       "Orange": "#5f5159",
-      "Rose": "#4d324c|#5d415f|#e6cecc",
-      "Violet": "#463d5d|#554c70|#ded3d6",
+      "Rose": "#5d415f",
+      "Violet": "#554c70",
       "Yellow": "#5f5159"
     },
     "Label": {

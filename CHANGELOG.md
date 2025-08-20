@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix template syntax
 
 ## [0.0.10]
 - fix inline colors
