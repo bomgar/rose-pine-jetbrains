@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix branch background color
 
 ## [0.0.11]
 - fix template syntax

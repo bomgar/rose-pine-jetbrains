@@ -442,7 +442,7 @@
       },
       "Log": {
         "Commit": {
-          "currentBranchBackground": "#c4a7e7",
+          "currentBranchBackground": "#463d5d",
           "hoveredBackground": "hoverBackground",
           "selectionInactiveBackground": "hoverBackground"
         }
