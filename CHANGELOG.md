@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.0.12]
 - fix branch background color
 
 ## [0.0.11]
