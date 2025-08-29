@@ -1,4 +1,4 @@
-<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="9">
+<scheme name="$id" parent_scheme="$(Darcula|Darcula|Default)" version="10">
   <colors>
     <option name="ADDED_LINES_COLOR" value="$pine"/>
     <option name="ANNOTATIONS_COLOR" value="$base"/>
@@ -22,7 +22,7 @@
     <option name="ERROR_HINT" value="$love"/>
     <option name="FILESTATUS_ADDED" value="$pine"/>
     <option name="FILESTATUS_COPIED" value="$pine"/>
-    <option name="FILESTATUS_DELETED" value="$surface"/>
+    <option name="FILESTATUS_DELETED" value="$love"/>
     <option name="FILESTATUS_HIJACKED" value="$gold"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="$surface"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="$subtle"/>

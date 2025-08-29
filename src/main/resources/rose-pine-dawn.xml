@@ -1,4 +1,4 @@
-<scheme name="rose-pine-dawn" parent_scheme="Default" version="9">
+<scheme name="rose-pine-dawn" parent_scheme="Default" version="10">
   <colors>
     <option name="ADDED_LINES_COLOR" value="#286983"/>
     <option name="ANNOTATIONS_COLOR" value="#faf4ed"/>
@@ -22,7 +22,7 @@
     <option name="ERROR_HINT" value="#b4637a"/>
     <option name="FILESTATUS_ADDED" value="#286983"/>
     <option name="FILESTATUS_COPIED" value="#286983"/>
-    <option name="FILESTATUS_DELETED" value="#fffaf3"/>
+    <option name="FILESTATUS_DELETED" value="#b4637a"/>
     <option name="FILESTATUS_HIJACKED" value="#ea9d34"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="#fffaf3"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="#797593"/>
