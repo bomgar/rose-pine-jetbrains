@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix version control file delete status
 
 ## [0.0.12]
 - fix branch background color
