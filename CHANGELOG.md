@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.0.13]
 - fix version control file delete status
 
 ## [0.0.12]
