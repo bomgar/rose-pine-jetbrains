@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.0.14]
 * fix html attribute color
 * fix blade keywords
 
