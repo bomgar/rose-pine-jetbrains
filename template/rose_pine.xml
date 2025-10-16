@@ -1276,7 +1276,7 @@
     <option name="HAML_XHTML" baseAttributes=""/>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="$gold"/>
+        <option name="FOREGROUND" value="$iris"/>
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING"/>

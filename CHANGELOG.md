@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+* fix html attribute color
 
 ## [0.0.13]
 - fix version control file delete status

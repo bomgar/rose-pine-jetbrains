@@ -1276,7 +1276,7 @@
     <option name="HAML_XHTML" baseAttributes=""/>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="#ea9d34"/>
+        <option name="FOREGROUND" value="#907aa9"/>
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING"/>
