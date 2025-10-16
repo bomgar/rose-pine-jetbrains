@@ -3062,5 +3062,10 @@
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="#286983" />
+      </value>
+    </option>
   </attributes>
 </scheme>

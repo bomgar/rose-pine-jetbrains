@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 * fix html attribute color
+* fix blade keywords
 
 ## [0.0.13]
 - fix version control file delete status
