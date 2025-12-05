@@ -489,7 +489,7 @@
       "Checkbox.Background.Default.Dark": "#cecacd",
       "Checkbox.Background.Disabled": "#797593",
       "Checkbox.Background.Disabled.Dark": "#797593",
-      "Checkbox.Background.Selected": "#dfdad9",
+      "Checkbox.Background.Selected": "#fffaf3",
       "Checkbox.Background.Selected.Dark": "#cecacd",
       "Checkbox.Border.Default": "#797593",
       "Checkbox.Border.Disabled": "#797593",

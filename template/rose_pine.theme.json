@@ -489,7 +489,7 @@
       "Checkbox.Background.Default.Dark": "$highlightHigh",
       "Checkbox.Background.Disabled": "$subtle",
       "Checkbox.Background.Disabled.Dark": "$subtle",
-      "Checkbox.Background.Selected": "$highlightMed",
+      "Checkbox.Background.Selected": "$($highlightMed|$highlightMed|$surface)",
       "Checkbox.Background.Selected.Dark": "$highlightHigh",
       "Checkbox.Border.Default": "$subtle",
       "Checkbox.Border.Disabled": "$subtle",
