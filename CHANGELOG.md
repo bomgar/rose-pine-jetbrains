@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+* fix radio buttons in dawn variant
 
 ## [0.0.14]
 * fix html attribute color
