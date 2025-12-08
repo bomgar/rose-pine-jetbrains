@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [1.0.0]
 * fix radio buttons in dawn variant
 
 ## [0.0.14]
