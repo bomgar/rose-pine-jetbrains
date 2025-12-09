@@ -192,8 +192,7 @@
 				"pressedBackground": "hoverBackground"
 			},
 			"background": "crust",
-			"inactiveBackground": "panelBackground",
-			"borderColor": "#XXXXXX00"
+			"inactiveBackground": "panelBackground"
 		},
 		"MainWindow": {
 			"Tab": {
@@ -351,7 +350,6 @@
 				"chevronInset": 0
 			},
 			"background": "panelBackground",
-			"borderColor": "#XXXXXX00",
 			"hoverBackground": "hoverBackground"
 		},
 		"TabbedPane": {
@@ -406,9 +404,6 @@
 				"inactiveUnderlineColor": "#575279",
 				"underlineColor": "#286983",
 				"underlineHeight": 1
-			},
-			"Stripe": {
-				"borderColor": "#XXXXXX00"
 			},
 			"background": "panelBackground"
 		},
@@ -505,5 +500,8 @@
 			"Checkbox.Foreground.Selected.Dark": "#286983",
 			"Tree.iconColor": "#575279"
 		}
-	}
+	},
+	"StatusBar.borderColor": "#XXXXXX00",
+	"ToolWindow.Stripe.borderColor": "#XXXXXX00",
+	"MainToolbar.borderColor": "#XXXXXX00"
 }
