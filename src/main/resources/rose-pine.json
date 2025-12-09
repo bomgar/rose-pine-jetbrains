@@ -3,6 +3,7 @@
   "dark": true,
   "author": "bomgar",
   "editorScheme": "/rose-pine.xml",
+  "parentTheme": "Islands Dark",
   "colors": {
     "primaryForeground": "#e0def4",
     "primaryBackground": "#191724",
