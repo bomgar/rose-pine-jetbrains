@@ -464,7 +464,10 @@
 				"background": "panelBackground"
 			},
 			"separatorColor": "separatorColor"
-		}
+		},
+		"StatusBar.borderColor": "#XXXXXX00",
+		"ToolWindow.Stripe.borderColor": "#XXXXXX00",
+		"MainToolbar.borderColor": "#XXXXXX00"
 	},
 	"icons": {
 		"ColorPalette": {
@@ -500,8 +503,5 @@
 			"Checkbox.Foreground.Selected.Dark": "#286983",
 			"Tree.iconColor": "#575279"
 		}
-	},
-	"StatusBar.borderColor": "#XXXXXX00",
-	"ToolWindow.Stripe.borderColor": "#XXXXXX00",
-	"MainToolbar.borderColor": "#XXXXXX00"
+	}
 }
