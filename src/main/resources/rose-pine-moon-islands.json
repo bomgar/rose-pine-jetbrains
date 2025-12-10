@@ -159,6 +159,9 @@
 			"Violet": "#554c70",
 			"Yellow": "#5f5159"
 		},
+		"Island": {
+			"borderColor": "primaryBackground"
+		},
 		"Label": {
 			"background": "panelBackground",
 			"selectedForeground": "selectionBackground"
@@ -206,7 +209,8 @@
 				"selectedForeground": "primaryForeground",
 				"selectedInactiveBackground": "panelBackground",
 				"separatorColor": "panelBackground"
-			}
+			},
+			"background": "secondaryBackground"
 		},
 		"MemoryIndicator": {
 			"allocatedBackground": "#908caa",
@@ -397,9 +401,9 @@
 				"selectedForeground": "primaryForeground"
 			},
 			"Header": {
-				"background": "panelBackground",
+				"background": "primaryBackground",
 				"borderColor": "borderColor",
-				"inactiveBackground": "panelBackground"
+				"inactiveBackground": "primaryBackground"
 			},
 			"HeaderTab": {
 				"hoverBackground": "#908caa",
@@ -410,7 +414,7 @@
 			"Stripe": {
 				"borderColor": "#00000000"
 			},
-			"background": "panelBackground"
+			"background": "primaryBackground"
 		},
 		"Tree": {
 			"background": "panelBackground",
