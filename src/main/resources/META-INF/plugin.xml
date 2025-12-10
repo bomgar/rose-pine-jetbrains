@@ -1,11 +1,11 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.bomgar.rosepinejetbrains</id>
-    <name>Rose Pine Theme</name>
+    <name>Rosé Pine Theme</name>
     <vendor>bomgar</vendor>
     <description><![CDATA[
       All natural pine, faux fur and a bit of soho vibes for the classy minimalist<br/><br/>
-      Includes all three Rosé Pine variants (rose-pine, rose-pine-dawn, rose-pine-moon).
+      Includes all three Rosé Pine variants with Islands theme support (Rosé Pine, Rosé Pine Dawn, Rosé Pine Moon).
 ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
