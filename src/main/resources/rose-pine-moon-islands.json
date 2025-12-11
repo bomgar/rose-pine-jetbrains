@@ -1,8 +1,9 @@
 {
-	"name": "Rose Pine Moon",
+	"name": "Rose Pine Moon Islands",
 	"dark": true,
 	"author": "bomgar",
 	"editorScheme": "/rose-pine-moon.xml",
+	"parentTheme": "Islands Dark",
 	"colors": {
 		"primaryForeground": "#e0def4",
 		"primaryBackground": "#232136",
@@ -158,6 +159,9 @@
 			"Violet": "#554c70",
 			"Yellow": "#5f5159"
 		},
+		"Island": {
+			"borderColor": "primaryBackground"
+		},
 		"Label": {
 			"background": "panelBackground",
 			"selectedForeground": "selectionBackground"
@@ -191,6 +195,7 @@
 				"pressedBackground": "hoverBackground"
 			},
 			"background": "crust",
+			"borderColor": "#00000000",
 			"inactiveBackground": "panelBackground"
 		},
 		"MainWindow": {
@@ -204,7 +209,8 @@
 				"selectedForeground": "primaryForeground",
 				"selectedInactiveBackground": "panelBackground",
 				"separatorColor": "panelBackground"
-			}
+			},
+			"background": "secondaryBackground"
 		},
 		"MemoryIndicator": {
 			"allocatedBackground": "#908caa",
@@ -349,7 +355,7 @@
 				"chevronInset": 0
 			},
 			"background": "panelBackground",
-			"borderColor": "borderColor",
+			"borderColor": "#00000000",
 			"hoverBackground": "hoverBackground"
 		},
 		"TabbedPane": {
@@ -395,9 +401,9 @@
 				"selectedForeground": "primaryForeground"
 			},
 			"Header": {
-				"background": "panelBackground",
+				"background": "primaryBackground",
 				"borderColor": "borderColor",
-				"inactiveBackground": "panelBackground"
+				"inactiveBackground": "primaryBackground"
 			},
 			"HeaderTab": {
 				"hoverBackground": "#908caa",
@@ -405,7 +411,10 @@
 				"underlineColor": "#3e8fb0",
 				"underlineHeight": 1
 			},
-			"background": "panelBackground"
+			"Stripe": {
+				"borderColor": "#00000000"
+			},
+			"background": "primaryBackground"
 		},
 		"Tree": {
 			"background": "panelBackground",
