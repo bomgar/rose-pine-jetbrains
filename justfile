@@ -1,7 +1,7 @@
 # Updates bundled plugin theme from files in `template`
 template:
-   npx @rose-pine/build -o src/main/resources/ -t template/rose_pine.theme.json
-   npx @rose-pine/build -o src/main/resources/ -t template/rose_pine.xml
+   bloom build -o src/main/resources/ template/rose_pine.theme.json
+   bloom build -o src/main/resources/ template/rose_pine.xml
 
 # Start IDE with the plugin loaded
 ui: template
