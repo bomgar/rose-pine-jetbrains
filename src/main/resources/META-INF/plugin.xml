@@ -6,6 +6,7 @@
     <description><![CDATA[
       All natural pine, faux fur and a bit of soho vibes for the classy minimalist<br/><br/>
       Includes all three Rosé Pine variants (rose-pine, rose-pine-dawn, rose-pine-moon).
+      Also supports the new islands themes (rose-pine-islands, rose-pine-dawn-islands, rose-pine-moon-islands).
 ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
