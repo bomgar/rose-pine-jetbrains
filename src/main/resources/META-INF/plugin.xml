@@ -14,5 +14,8 @@
         <themeProvider id="8c92a344-c5fe-48e9-b654-0794cf14a36f" path="/rose-pine.json"/>
         <themeProvider id="ae0e6cf0-1843-41df-888d-6114e94b3a6c" path="/rose-pine-moon.json"/>
         <themeProvider id="dca196eb-7b53-4200-8d62-7cca1d79be2f" path="/rose-pine-dawn.json"/>
+        <themeProvider id="47ed1a60-5497-45d6-b1b9-28a5adeaa519" path="/islands/rose-pine.json"/>
+        <themeProvider id="d3424399-b350-4d45-a1ce-1132c393c290" path="/islands/rose-pine-moon.json"/>
+        <themeProvider id="eebef7d3-cdad-4723-810b-18d23626a0f3" path="/islands/rose-pine-dawn.json"/>
     </extensions>
 </idea-plugin>
