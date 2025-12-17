@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+## [1.1.0]
+* islands theme
+
 ## [1.0.0]
 * fix radio buttons in dawn variant
 
