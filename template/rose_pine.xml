@@ -2733,19 +2733,22 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$text"/>
+        <option name="BACKGROUND" value="$(#504346|#5f5159|#f0dabe)"/>
         <option name="ERROR_STRIPE_COLOR" value="$love"/>
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$text"/>
+        <option name="BACKGROUND" value="$(#504346|#5f5159|#f0dabe)"/>
         <option name="ERROR_STRIPE_COLOR" value="$love"/>
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="$overlay"/>
+        <option name="FOREGROUND" value="$text"/>
+        <option name="BACKGROUND" value="$(#504346|#5f5159|#f0dabe)"/>
         <option name="ERROR_STRIPE_COLOR" value="$love"/>
       </value>
     </option>

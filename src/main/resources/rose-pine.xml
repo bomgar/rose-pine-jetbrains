@@ -2733,19 +2733,22 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#26233a"/>
+        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="BACKGROUND" value="#504346"/>
         <option name="ERROR_STRIPE_COLOR" value="#eb6f92"/>
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#26233a"/>
+        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="BACKGROUND" value="#504346"/>
         <option name="ERROR_STRIPE_COLOR" value="#eb6f92"/>
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="#26233a"/>
+        <option name="FOREGROUND" value="#e0def4"/>
+        <option name="BACKGROUND" value="#504346"/>
         <option name="ERROR_STRIPE_COLOR" value="#eb6f92"/>
       </value>
     </option>

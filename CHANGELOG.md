@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 - fix selected editor tab border color
+- search highlight closer to vim
 
 ## [1.1.0]
 * islands theme
