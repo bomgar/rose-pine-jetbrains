@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [1.1.1]
 - fix selected editor tab border color
 - search highlight closer to vim
 
