@@ -38,6 +38,12 @@
 
 ## Gallery
 
+### Islands
+![Rosé Pine](./assets/rose-pine-dawn-islands.png)
+![Rosé Pine Moon](./assets/rose-pine-moon-islands.png)
+![Rosé Pine Dawn](./assets/rose-pine-dawn-islands.png)
+
+### Old
 ![Rosé Pine](./assets/rose-pine.png)
 ![Rosé Pine Moon](./assets/rose-pine-moon.png)
 ![Rosé Pine Dawn](./assets/rose-pine-dawn.png)
