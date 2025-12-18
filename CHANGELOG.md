@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix selected editor tab border color
 
 ## [1.1.0]
 * islands theme

@@ -148,7 +148,10 @@
       "underlineArc": 4,
       "underlineColor": "#31748f",
       "underlineHeight": 1,
+      "underlinedBorderColor": "#9ccfd8",
       "underlinedTabBackground": "panelBackground",
+      "inactiveUnderlinedBorderColor": "$border",
+      "inactiveUnderlinedTabBackground": "panelBackground",
       "unselectedBlend": 0.7
     },
     "FileColor": {

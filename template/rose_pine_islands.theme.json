@@ -148,7 +148,10 @@
       "underlineArc": 4,
       "underlineColor": "$pine",
       "underlineHeight": 1,
+      "underlinedBorderColor": "$foam",
       "underlinedTabBackground": "panelBackground",
+      "inactiveUnderlinedBorderColor": "$border",
+      "inactiveUnderlinedTabBackground": "panelBackground",
       "unselectedBlend": 0.7
     },
     "FileColor": {
