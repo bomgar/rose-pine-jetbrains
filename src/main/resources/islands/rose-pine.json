@@ -8,9 +8,9 @@
     "primaryForeground": "#e0def4",
     "primaryBackground": "#191724",
     "secondaryBackground": "#26233a",
-    "panelBackground": "#1f1d2e",
+    "panelBackground": "#403d52",
     "hoverBackground": "#524f67",
-    "selectionBackground": "#403d52",
+    "selectionBackground": "#524f67",
     "selectionInactiveBackground": "#21202e",
     "borderColor": "#524f67",
     "separatorColor": "#524f67"
@@ -19,7 +19,7 @@
     "*": {
       "arc": "7",
       "background": "primaryBackground",
-      "borderColor": "borderColor",
+      "borderColor": "panelBackground",
       "disabledBackground": "primaryBackground",
       "foreground": "primaryForeground",
       "inactiveBackground": "primaryBackground",
@@ -78,13 +78,13 @@
         "startBackground": "#31748f",
         "startBorderColor": "#31748f"
       },
-      "disabledBorderColor": "secondaryBackground",
-      "endBackground": "secondaryBackground",
-      "endBorderColor": "secondaryBackground",
-      "focusedBorderColor": "secondaryBackground",
+      "disabledBorderColor": "#524f67",
+      "endBackground": "#524f67",
+      "endBorderColor": "#524f67",
+      "focusedBorderColor": "#524f67",
       "foreground": "primaryForeground",
-      "startBackground": "secondaryBackground",
-      "startBorderColor": "secondaryBackground"
+      "startBackground": "#524f67",
+      "startBorderColor": "#524f67"
     },
     "CheckBox": {
       "background": "panelBackground"
@@ -149,9 +149,9 @@
       "underlineColor": "#31748f",
       "underlineHeight": 1,
       "underlinedBorderColor": "#9ccfd8",
-      "underlinedTabBackground": "panelBackground",
+      "underlinedTabBackground": "#403d52",
       "inactiveUnderlinedBorderColor": "$border",
-      "inactiveUnderlinedTabBackground": "panelBackground",
+      "inactiveUnderlinedTabBackground": "#403d52",
       "unselectedBlend": 0.7
     },
     "FileColor": {
@@ -401,9 +401,9 @@
         "selectedForeground": "primaryForeground"
       },
       "Header": {
-        "background": "panelBackground",
+        "background": "#191724",
         "borderColor": "borderColor",
-        "inactiveBackground": "panelBackground"
+        "inactiveBackground": "#191724"
       },
       "HeaderTab": {
         "hoverBackground": "#908caa",

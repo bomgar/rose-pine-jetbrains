@@ -8,9 +8,9 @@
     "primaryForeground": "$text",
     "primaryBackground": "$base",
     "secondaryBackground": "$overlay",
-    "panelBackground": "$surface",
+    "panelBackground": "$highlightMed",
     "hoverBackground": "$highlightHigh",
-    "selectionBackground": "$highlightMed",
+    "selectionBackground": "$highlightHigh",
     "selectionInactiveBackground": "$highlightLow",
     "borderColor": "$highlightHigh",
     "separatorColor": "$highlightHigh"
@@ -19,7 +19,7 @@
     "*": {
       "arc": "7",
       "background": "primaryBackground",
-      "borderColor": "borderColor",
+      "borderColor": "panelBackground",
       "disabledBackground": "primaryBackground",
       "foreground": "primaryForeground",
       "inactiveBackground": "primaryBackground",
@@ -78,13 +78,13 @@
         "startBackground": "$pine",
         "startBorderColor": "$pine"
       },
-      "disabledBorderColor": "secondaryBackground",
-      "endBackground": "secondaryBackground",
-      "endBorderColor": "secondaryBackground",
-      "focusedBorderColor": "secondaryBackground",
+      "disabledBorderColor": "$highlightHigh",
+      "endBackground": "$highlightHigh",
+      "endBorderColor": "$highlightHigh",
+      "focusedBorderColor": "$highlightHigh",
       "foreground": "primaryForeground",
-      "startBackground": "secondaryBackground",
-      "startBorderColor": "secondaryBackground"
+      "startBackground": "$highlightHigh",
+      "startBorderColor": "$highlightHigh"
     },
     "CheckBox": {
       "background": "panelBackground"
@@ -149,9 +149,9 @@
       "underlineColor": "$pine",
       "underlineHeight": 1,
       "underlinedBorderColor": "$foam",
-      "underlinedTabBackground": "panelBackground",
+      "underlinedTabBackground": "$($highlightMed|$highlightMed|$surface)",
       "inactiveUnderlinedBorderColor": "$border",
-      "inactiveUnderlinedTabBackground": "panelBackground",
+      "inactiveUnderlinedTabBackground": "$($highlightMed|$highlightMed|$surface)",
       "unselectedBlend": 0.7
     },
     "FileColor": {
@@ -401,9 +401,9 @@
         "selectedForeground": "primaryForeground"
       },
       "Header": {
-        "background": "panelBackground",
+        "background": "$base",
         "borderColor": "borderColor",
-        "inactiveBackground": "panelBackground"
+        "inactiveBackground": "$base"
       },
       "HeaderTab": {
         "hoverBackground": "$subtle",
