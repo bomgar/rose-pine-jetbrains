@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix border color
 
 ## [1.1.1]
 - fix selected editor tab border color

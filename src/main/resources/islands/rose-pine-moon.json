@@ -194,8 +194,8 @@
         "insets": "5,5,5,5",
         "pressedBackground": "hoverBackground"
       },
-      "background": "crust",
-      "inactiveBackground": "panelBackground",
+      "background": "#44415a",
+      "inactiveBackground": "highlightMed",
       "borderColor": "#00000000"
     },
     "MainWindow": {
@@ -412,7 +412,7 @@
         "underlineHeight": 1
       },
       "Stripe": {
-        "borderColor": "#00000000"
+        "background": "#44415a"
       },
       "background": "#232136"
     },
