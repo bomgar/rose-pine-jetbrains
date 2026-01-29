@@ -497,7 +497,7 @@
       "Objects.RedStatus": "#b4637a",
       "Objects.Yellow": "#ea9d34",
       "Objects.YellowDark": "#ea9d34",
-      "Checkbox.Background.Default": "#dfdad9",
+      "Checkbox.Background.Default": "#fffaf3",
       "Checkbox.Background.Disabled": "#797593",
       "Checkbox.Background.Selected": "#fffaf3",
       "Checkbox.Border.Default": "#797593",
