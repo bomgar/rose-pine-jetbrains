@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [1.1.3]
 - fix checkbox background
 
 ## [1.1.2]
