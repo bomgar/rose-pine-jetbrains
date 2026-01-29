@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [1.1.2]
 - fix border color
 
 ## [1.1.1]
