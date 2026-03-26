@@ -3,6 +3,8 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+
+## [1.1.4]
 - fix latest commit colors
 
 ## [1.1.3]
