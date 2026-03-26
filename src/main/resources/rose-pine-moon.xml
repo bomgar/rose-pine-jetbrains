@@ -86,6 +86,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="#3e8fb0"/>
     <option name="VCS_ANNOTATIONS_COLOR_4" value="#c4a7e7"/>
     <option name="VCS_ANNOTATIONS_COLOR_5" value="#9ccfd8"/>
+    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="#eb6f92" />
     <option name="VISUAL_INDENT_GUIDE" value="#2a273f"/>
     <option name="WHITESPACES" value="#393552"/>
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="#2a273f"/>

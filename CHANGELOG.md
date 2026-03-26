@@ -3,6 +3,7 @@
 # rose-pine-jetbrains Changelog
 
 ## [Unreleased]
+- fix latest commit colors
 
 ## [1.1.3]
 - fix checkbox background
