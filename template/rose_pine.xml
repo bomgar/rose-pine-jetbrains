@@ -86,7 +86,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="$pine"/>
     <option name="VCS_ANNOTATIONS_COLOR_4" value="$iris"/>
     <option name="VCS_ANNOTATIONS_COLOR_5" value="$foam"/>
-    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="$love" />
+    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="$highlightHigh" />
     <option name="VISUAL_INDENT_GUIDE" value="$surface"/>
     <option name="WHITESPACES" value="$overlay"/>
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="$surface"/>
