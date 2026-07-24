@@ -60,6 +60,14 @@
     <option name="METHOD_SEPARATORS_COLOR" value="$surface"/>
     <option name="MODIFIED_LINES_COLOR" value="$gold"/>
     <option name="MODIFIED_TAB_ICON" value="$foam"/>
+    <option name="NEXT_EDIT.DIFF_ADD_BACKGROUND" value="$(#29374f|#3a4c6a|#c0c9ca)"/>
+    <option name="NEXT_EDIT.DIFF_AFTER_BACKGROUND" value="$(#444e62|#525c74|#cbd4d1)"/>
+    <option name="NEXT_EDIT.DIFF_PANEL_BORDER" value="$muted"/>
+    <option name="NEXT_EDIT.EDIT_RANGE.GUTTER_BACKGROUND" value="$highlightMed"/>
+    <option name="NEXT_EDIT.EDIT_RANGE.LINE_BACKGROUND" value="$highlightLow"/>
+    <option name="NEXT_EDIT.INSIGHT_BACKGROUND" value="$overlay"/>
+    <option name="NEXT_EDIT.REMOVAL_BACKGROUND" value="$(#573650|#664462|#e3c8c7)"/>
+    <option name="NEXT_EDIT.REVIEW_HINT.BACKGROUND" value="$iris"/>
     <option name="NOTIFICATION_BACKGROUND" value="$overlay"/>
     <option name="PROMOTION_PANE" value="$surface"/>
     <option name="QUESTION_HINT" value="$surface"/>

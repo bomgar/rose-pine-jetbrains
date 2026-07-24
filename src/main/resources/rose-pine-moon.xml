@@ -60,6 +60,14 @@
     <option name="METHOD_SEPARATORS_COLOR" value="#2a273f"/>
     <option name="MODIFIED_LINES_COLOR" value="#f6c177"/>
     <option name="MODIFIED_TAB_ICON" value="#9ccfd8"/>
+    <option name="NEXT_EDIT.DIFF_ADD_BACKGROUND" value="#3a4c6a"/>
+    <option name="NEXT_EDIT.DIFF_AFTER_BACKGROUND" value="#525c74"/>
+    <option name="NEXT_EDIT.DIFF_PANEL_BORDER" value="#6e6a86"/>
+    <option name="NEXT_EDIT.EDIT_RANGE.GUTTER_BACKGROUND" value="#44415a"/>
+    <option name="NEXT_EDIT.EDIT_RANGE.LINE_BACKGROUND" value="#2a283e"/>
+    <option name="NEXT_EDIT.INSIGHT_BACKGROUND" value="#393552"/>
+    <option name="NEXT_EDIT.REMOVAL_BACKGROUND" value="#664462"/>
+    <option name="NEXT_EDIT.REVIEW_HINT.BACKGROUND" value="#c4a7e7"/>
     <option name="NOTIFICATION_BACKGROUND" value="#393552"/>
     <option name="PROMOTION_PANE" value="#2a273f"/>
     <option name="QUESTION_HINT" value="#2a273f"/>
